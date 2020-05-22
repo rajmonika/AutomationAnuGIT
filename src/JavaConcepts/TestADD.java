@@ -17,6 +17,8 @@ public class TestADD {
 		TestADD obj = new TestADD();
 		
 		obj.add();
+		
+		System.out.println("Check for Differences");
 
 	}
 
